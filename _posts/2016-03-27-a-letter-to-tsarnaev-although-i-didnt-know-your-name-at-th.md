@@ -3,25 +3,27 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
-description: "I'm from Boston. I grew up going to games at Fenway, I've spent many nights out drinking on Boylston street, and yesterday I watched bombs detonate in a crowd not more than a few hundred feet from where my mother stood."
-datePublished: '2016-03-27T21:38:06.250Z'
-dateModified: '2016-03-27T21:37:58.968Z'
+description: "I have been in shock since I first heard of the attack, going through the mechanical process of finding my family and friends, but now I'm feeling a rage start to burn through the shock."
+datePublished: '2016-03-27T22:11:00.863Z'
+dateModified: '2016-03-27T22:10:54.233Z'
 title: "A letter to Tsarnaev (although I didn't know your name at the time)"
 author: []
+sourcePath: _posts/2016-03-27-a-letter-to-tsarnaev-although-i-didnt-know-your-name-at-th.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-27-a-letter-to-tsarnaev-although-i-didnt-know-your-name-at-th.md
-published: true
 url: a-letter-to-tsarnaev-although-i-didnt-know-your-name-at-th/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c758ca4-8f52-4575-b86a-daa690924c40.jpg)
+
 I'm from Boston. I grew up going to games at Fenway, I've spent many nights out drinking on Boylston street, and yesterday I watched bombs detonate in a crowd not more than a few hundred feet from where my mother stood.
 
 I have been in shock since I first heard of the attack, going through the mechanical process of finding my family and friends, but now I'm feeling a rage start to burn through the shock.
