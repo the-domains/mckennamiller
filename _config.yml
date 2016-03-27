@@ -1,7 +1,7 @@
 name: mckennamiller
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.89174
+layout_spectrum: 0.2735
+typography_spectrum: 0.84616
 title: Michael Aaron McKenna Miller
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.13886899244971573
+  brandStrength: 0.25
   lightness: 0.8034409107640386
-  saturation: 0.994318213313818
+  saturation: 0.625
   rhythmicContrast: 0.6027710896451026
 purpose: []
