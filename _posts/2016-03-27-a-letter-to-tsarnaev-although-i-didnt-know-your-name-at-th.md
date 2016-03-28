@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "I have been in shock since I first heard of the attack, going through the mechanical process of finding my family and friends, but now I'm feeling a rage start to burn through the shock."
-datePublished: '2016-03-27T22:11:00.863Z'
-dateModified: '2016-03-27T22:10:54.233Z'
+description: "I'm from Boston. I grew up going to games at Fenway, I've spent many nights out drinking on Boylston street, and yesterday I watched bombs detonate in a crowd not more than a few hundred feet from where my mother stood."
+datePublished: '2016-03-28T00:26:22.218Z'
+dateModified: '2016-03-27T22:11:06.189Z'
 title: "A letter to Tsarnaev (although I didn't know your name at the time)"
 author: []
 sourcePath: _posts/2016-03-27-a-letter-to-tsarnaev-although-i-didnt-know-your-name-at-th.md
